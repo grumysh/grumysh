@@ -1,4 +1,4 @@
-## <img height="50" width="50" alt="" src="https://media.giphy.com/media/ebNrLlrnIepNUFAA3P/giphy.gif"/> Hi there. I'm Andre, my nickname is Grumysh.
+## <img height="50" width="50" alt="" src="https://media.giphy.com/media/ebNrLlrnIepNUFAA3P/giphy.gif"/> Hi there. I'm Andrea
 
 
 🔭 I’m currently working on The Sandbox Game as a freelance Voxel artist. In [my The Sandbox Profile](https://www.sandbox.game/en/users/grumysh/5ee44d93-7db6-42b4-8877-ea97a6cf140e/) you can see some of my art.
@@ -20,13 +20,10 @@
 
 ### <img height="40" width="40" alt="" src="https://user-images.githubusercontent.com/29903400/192078542-7064d309-658c-4d78-a12f-d689ca20e55f.png">My Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=grumysh&theme=tokyonight"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grumysh&layout=compact&theme=tokyonight" />
+<img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=grumysh&theme=tokyonight"/> <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grumysh&layout=compact&theme=tokyonight" />
 
 
 [theSandbox]:https://www.sandbox.game/en/users/grumysh/5ee44d93-7db6-42b4-8877-ea97a6cf140e/
 [twitter]:https://twitter.com/Grumysh
 [instagram]:https://www.instagram.com/grumysh/
 [linkedin]:https://www.linkedin.com/in/grumysh/
-
-
