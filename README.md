@@ -13,18 +13,17 @@
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
 <br />
 
 ### My stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=grumysh&theme=tokyonight" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grumysh&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=grumysh&theme=tokyonight"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grumysh&layout=compact&theme=tokyonight" />
 
 
 [theSandbox]:https://www.sandbox.game/en/users/grumysh/5ee44d93-7db6-42b4-8877-ea97a6cf140e/
 [twitter]:https://twitter.com/Grumysh
 [instagram]:https://www.instagram.com/grumysh/
-[linkedin]:https://www.instagram.com/grumysh/
-[gmail]:anlramirezs11@gmail.com
+[linkedin]:https://www.linkedin.com/in/grumysh/
+
