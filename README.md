@@ -1,4 +1,4 @@
-### <img height="50" width="50" alt="" src="https://github.githubassets.com/images/mona-whisper.gif" />Hi there 👋
+### <img height="50" width="50" alt="" src="https://giphy.com/embed/ebNrLlrnIepNUFAA3P"/>Hi there 👋
 
 
 Here are some ideas to get you started:
