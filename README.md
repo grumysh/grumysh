@@ -9,7 +9,7 @@
 <br />
 🌱 I am currently learning and unlearning in platzi about web development. Here you will find all the projects that I will be doing.
 <br />
-### Connect with me 
+### <img height="40" width="40" alt="" src="https://user-images.githubusercontent.com/29903400/192078625-73995a29-00c7-4e94-9efa-77a1957ef8c3.png">Connect with me 
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
@@ -18,12 +18,15 @@
 <br />
 <br />
 
-### My stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=grumysh&theme=tokyonight"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grumysh&layout=compact&theme=tokyonight" />
+### <img height="40" width="40" alt="" src="https://user-images.githubusercontent.com/29903400/192078542-7064d309-658c-4d78-a12f-d689ca20e55f.png">My Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=grumysh&theme=tokyonight"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grumysh&layout=compact&theme=tokyonight" />
 
 
 [theSandbox]:https://www.sandbox.game/en/users/grumysh/5ee44d93-7db6-42b4-8877-ea97a6cf140e/
 [twitter]:https://twitter.com/Grumysh
 [instagram]:https://www.instagram.com/grumysh/
 [linkedin]:https://www.linkedin.com/in/grumysh/
+
 
