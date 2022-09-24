@@ -23,7 +23,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=grumysh&theme=tokyonight" />&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grumysh&layout=compact&theme=tokyonight" />
 
 
-[linkedin]:https://www.sandbox.game/en/users/grumysh/5ee44d93-7db6-42b4-8877-ea97a6cf140e/
+[theSandbox]:https://www.sandbox.game/en/users/grumysh/5ee44d93-7db6-42b4-8877-ea97a6cf140e/
 [twitter]:https://twitter.com/Grumysh
 [instagram]:https://www.instagram.com/grumysh/
-[theSandbox]:https://www.instagram.com/grumysh/
+[linkedin]:https://www.instagram.com/grumysh/
