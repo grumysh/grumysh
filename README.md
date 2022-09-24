@@ -1,4 +1,4 @@
-### <img height="50" width="50" alt="" src="https://giphy.com/embed/ebNrLlrnIepNUFAA3P"/>Hi there 👋
+### <img height="50" width="50" alt="" src="https://media.giphy.com/media/ebNrLlrnIepNUFAA3P/giphy.gif"/>Hi there 👋
 
 
 Here are some ideas to get you started:
