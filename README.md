@@ -20,7 +20,7 @@
 
 ### <img height="40" width="40" alt="" src="https://user-images.githubusercontent.com/29903400/192078542-7064d309-658c-4d78-a12f-d689ca20e55f.png">My Stats
 
-<img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=grumysh&theme=tokyonight"/> <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grumysh&layout=compact&theme=tokyonight" />
+<img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=grumysh&theme=tokyonight"/> <img width="330" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grumysh&layout=compact&theme=tokyonight" />
 
 
 [theSandbox]:https://www.sandbox.game/en/users/grumysh/5ee44d93-7db6-42b4-8877-ea97a6cf140e/
