@@ -1,7 +1,6 @@
 ## <img height="50" width="50" alt="" src="https://media.giphy.com/media/ebNrLlrnIepNUFAA3P/giphy.gif"/> Hi there. I'm Andrea
 
 Co-founder, Tech Lead and Software Developer at [Ashara Studios](https://asharastudios.com)
-
 <br />
 
 ### <img height="40" width="40" alt="" src="https://user-images.githubusercontent.com/29903400/192078625-73995a29-00c7-4e94-9efa-77a1957ef8c3.png">Connect with me 
