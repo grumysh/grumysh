@@ -2,12 +2,6 @@
 
 Co-founder, Tech Lead and Software Developer at [Ashara Studios](https://asharastudios.com)
 
-![portada - Copy](https://user-images.githubusercontent.com/29903400/192076260-e6d3a3a7-9c5b-4dc9-a465-07d29253e26a.png)
-[<img align="left" alt="theSandbox" src="https://img.shields.io/badge/the%20sandbox-%230084FF.svg?&style=for-the-badge&logo=sand&logoColor=white" />][theSandbox]
-<br />
-<br />
-<br />
-🌱 I am currently learning and unlearning in platzi about web development. Here you will find all the projects that I will be doing.
 <br />
 ### <img height="40" width="40" alt="" src="https://user-images.githubusercontent.com/29903400/192078625-73995a29-00c7-4e94-9efa-77a1957ef8c3.png">Connect with me 
 
