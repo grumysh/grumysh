@@ -1,7 +1,7 @@
 ## <img height="50" width="50" alt="" src="https://media.giphy.com/media/ebNrLlrnIepNUFAA3P/giphy.gif"/> Hi there. I'm Andrea
 
+Co-founder, Tech Lead and Software Developer at [Ashara Studios](https://asharastudios.com)
 
-🔭 I’m currently working on The Sandbox Game as a freelance Voxel artist. In [my The Sandbox Profile](https://www.sandbox.game/en/users/grumysh/5ee44d93-7db6-42b4-8877-ea97a6cf140e/) you can see some of my art.
 ![portada - Copy](https://user-images.githubusercontent.com/29903400/192076260-e6d3a3a7-9c5b-4dc9-a465-07d29253e26a.png)
 [<img align="left" alt="theSandbox" src="https://img.shields.io/badge/the%20sandbox-%230084FF.svg?&style=for-the-badge&logo=sand&logoColor=white" />][theSandbox]
 <br />
