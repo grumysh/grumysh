@@ -3,6 +3,7 @@
 Co-founder, Tech Lead and Software Developer at [Ashara Studios](https://asharastudios.com)
 
 <br />
+
 ### <img height="40" width="40" alt="" src="https://user-images.githubusercontent.com/29903400/192078625-73995a29-00c7-4e94-9efa-77a1957ef8c3.png">Connect with me 
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
